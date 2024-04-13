@@ -1,0 +1,28 @@
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scrollbar-width: none;
+}
+
+
+
+html {
+    font-size: 62.5%;
+    font-family: 'Raleway', Helvetica, sans-serif;
+}
+
+body {
+    background-color: #242423;
+    color: rgb(195, 195, 195);
+}
+
+a {
+    color: gold;
+    text-decoration: none;
+}
+.active {
+
+ text-decoration: underline;
+}
+
